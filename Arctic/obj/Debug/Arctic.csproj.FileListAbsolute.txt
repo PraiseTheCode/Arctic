@@ -1,0 +1,12 @@
+D:\AstroDpt\HellAgain\LC\Arctic\Arctic\obj\Debug\Arctic.Arctic.resources
+D:\AstroDpt\HellAgain\LC\Arctic\Arctic\obj\Debug\Arctic.csproj.GenerateResource.Cache
+D:\AstroDpt\HellAgain\LC\Arctic\Arctic\obj\Debug\Arctic.Properties.Resources.resources
+D:\AstroDpt\HellAgain\LC\Arctic\Arctic\bin\Debug\Arctic.exe
+D:\AstroDpt\HellAgain\LC\Arctic\Arctic\bin\Debug\Arctic.pdb
+D:\AstroDpt\HellAgain\LC\Arctic\Arctic\bin\Debug\MathLib.dll
+D:\AstroDpt\HellAgain\LC\Arctic\Arctic\bin\Debug\NPlot.dll
+D:\AstroDpt\HellAgain\LC\Arctic\Arctic\bin\Debug\MathLib.pdb
+D:\AstroDpt\HellAgain\LC\Arctic\Arctic\bin\Debug\MathLib.xml
+D:\AstroDpt\HellAgain\LC\Arctic\Arctic\obj\Debug\Arctic.exe
+D:\AstroDpt\HellAgain\LC\Arctic\Arctic\obj\Debug\Arctic.pdb
+D:\AstroDpt\HellAgain\LC\Arctic\Arctic\obj\Debug\Arctic.csprojResolveAssemblyReference.cache
